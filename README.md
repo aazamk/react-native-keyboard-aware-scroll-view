@@ -14,6 +14,7 @@ A ScrollView component that handles keyboard appearance and automatically scroll
 
 ## Supported versions
 
+- `v2.0.0` requires `RN>=0.65.1`
 - `v1.0.0` requires `RN>=0.63.0`
 
 ## Installation
